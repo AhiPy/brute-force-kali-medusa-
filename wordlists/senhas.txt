@@ -1,0 +1,8 @@
+﻿msfadmin
+admin
+123456
+password
+root
+toor
+letmein
+senha123

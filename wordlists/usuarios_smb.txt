@@ -1,0 +1,9 @@
+﻿msfadmin
+root
+service
+user
+ftp
+postgres
+mysql
+backup
+www-data
